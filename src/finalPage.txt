@@ -5,4 +5,4 @@ comit-->push
 
 and
 
-remote -->
+remote --> local
